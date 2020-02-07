@@ -1,5 +1,4 @@
 
-
 class Song:
     """Class to represtnt a song
 
