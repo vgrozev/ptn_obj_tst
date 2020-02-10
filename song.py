@@ -1,4 +1,3 @@
-
 class Song:
     """Class to represtnt a song
 
@@ -17,8 +16,25 @@ class Song:
             duration (Optional[int]: Initial value for the 'duration' attribute.
                 Will default to zero if not specified.
         """
-        # https://www.python.org/dev/peps/pep-0257
+        """ https://www.python.org/dev/peps/pep-0257        # PIP about docstrings"""
 
         self.title = title
         self.artist = artist
         self.duration = duration
+
+help(Song)
+
+print("\n =================== \n\n")
+
+help(Song.__init__)
+
+print("\n =================== \n\n")
+
+print(Song.__doc__)
+
+print("\n =================== \n\n")
+
+print(Song.__init__.__doc__)
+
+
+
