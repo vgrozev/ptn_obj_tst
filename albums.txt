@@ -184,6 +184,18 @@ Aerosmith	Nine Lives	1997	Something's Gotta Give
 Aerosmith	Nine Lives	1997	Ain't That A Bitch
 Aerosmith	Nine Lives	1997	The Farm
 Aerosmith	Nine Lives	1997	Crash
+ZZ Top	Antenna	1994	Pincushion
+ZZ Top	Antenna	1994	Breakaway
+ZZ Top	Antenna	1994	World Of Swirl
+ZZ Top	Antenna	1994	Fuzzbox Voodoo
+ZZ Top	Antenna	1994	Girl In A T-Shirt
+ZZ Top	Antenna	1994	Antenna Head
+ZZ Top	Antenna	1994	PCH
+ZZ Top	Antenna	1994	Cherry Red
+ZZ Top	Antenna	1994	Cover Your Rig
+ZZ Top	Antenna	1994	Lizard Life
+ZZ Top	Antenna	1994	Deal Goin' Down
+ZZ Top	Antenna	1994	Everything
 Aerosmith	Nine Lives	1997	Kiss Your Past Good-Bye
 Aerosmith	Nine Lives	1997	Pink
 Aerosmith	Nine Lives	1997	Falling Off
@@ -654,18 +666,6 @@ ZZ Top	Recycler	1990	Give It Up
 ZZ Top	Recycler	1990	2000 Blues
 ZZ Top	Recycler	1990	Burger Man
 ZZ Top	Recycler	1990	Doubleback
-ZZ Top	Antenna	1994	Pincushion
-ZZ Top	Antenna	1994	Breakaway
-ZZ Top	Antenna	1994	World Of Swirl
-ZZ Top	Antenna	1994	Fuzzbox Voodoo
-ZZ Top	Antenna	1994	Girl In A T-Shirt
-ZZ Top	Antenna	1994	Antenna Head
-ZZ Top	Antenna	1994	PCH
-ZZ Top	Antenna	1994	Cherry Red
-ZZ Top	Antenna	1994	Cover Your Rig
-ZZ Top	Antenna	1994	Lizard Life
-ZZ Top	Antenna	1994	Deal Goin' Down
-ZZ Top	Antenna	1994	Everything
 ZZ Top	Mescalero	2003	Mescalero
 ZZ Top	Mescalero	2003	Two Ways To Play
 ZZ Top	Mescalero	2003	Alley-gator

@@ -4,7 +4,7 @@ class Song:
     Attributes:
             title (str): The title of the song
             artist (Artist): An artist object representing the songs creator.
-            durationn (int): The duration of the song in seconds. May be zero
+            duration (int): The duration of the song in seconds. May be zero
     """
 
     def __init__(self, title, artist, duration=0):
@@ -22,6 +22,7 @@ class Song:
         self.artist = artist
         self.duration = duration
 
+
 help(Song)
 
 print("\n =================== \n\n")
@@ -35,6 +36,3 @@ print(Song.__doc__)
 print("\n =================== \n\n")
 
 print(Song.__init__.__doc__)
-
-
-
