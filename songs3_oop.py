@@ -156,3 +156,5 @@ if __name__ == '__main__':
     print("There are {} artists".format(len(artists)))
 
     create_check_file(artists)
+
+
