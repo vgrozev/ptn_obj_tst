@@ -18,9 +18,14 @@ class Song:
         """
         """ https://www.python.org/dev/peps/pep-0257        # PIP about docstrings"""
 
-        self.name = title
+        self.title = title
         self.artist = artist
         self.duration = duration
+
+    def get_title(self):
+        return self.title
+
+    name = property(get_title)
 
 
 class Album:
@@ -147,7 +152,7 @@ def create_check_file(artist_list):
         for new_artist in artist_list:
             for new_album in new_artist.albums:
                 for new_song in new_album.tracks:
-                    print("{0.name}\t{1.name}\t{1.year}\t{2.name}".format(new_artist, new_album, new_song),
+                    print("{0.name}\t{1.name}\t{1.year}\t{2.title}".format(new_artist, new_album, new_song),
                           file=check_file)
 
 
@@ -156,5 +161,3 @@ if __name__ == '__main__':
     print("There are {} artists".format(len(artists)))
 
     create_check_file(artists)
-
-
